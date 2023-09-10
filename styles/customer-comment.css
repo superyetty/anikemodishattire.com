@@ -1,0 +1,56 @@
+.customer-feedbacks{
+  background-color: rgb(210, 243, 233);
+}
+.customer-row{
+  display: flex;
+  justify-content: space-between;
+}
+.feedback-title{
+  color: rgb(218, 7, 7);
+  font-size: 30px;
+  font-weight: bold;
+  font-family: georgia;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.customer-thumb{
+  width: 220px;
+  height: 180px;
+  background-color: white;
+  margin-bottom: 30px;
+  margin-left: 5px;
+  border-radius: 5px;
+  align-items: center;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.125);
+}
+.customer-thumb img{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-right: 5px;
+  
+}
+.comment-details-1{
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.comment-details-1 .customer-name{
+  font-weight: bold;
+  font-size: 14px;
+  color: rgb(61, 135, 247);
+}
+.comment-details-1 .comment-date{
+  color: rgb(165, 164, 164);
+  font-size: 12px;
+}
+
+.comment-desc{
+  width: 200px;
+  margin-top: 10px;
+  padding-left: 10px;
+  font-size: 15px;
+}

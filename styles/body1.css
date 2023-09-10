@@ -1,0 +1,46 @@
+.body1{
+  display: flex;
+  justify-content: space-between;
+  height: 350px;
+  background-color: lightgrey;
+}
+.intro-section1{
+  margin-left: 50px;
+}
+.title{
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: blue;
+}
+
+.description{
+  width:310px;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+
+
+.shop-now-button{
+  background-color: rgb(93, 10, 170);
+  padding: 15px 30px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  margin-right: 10px;
+}
+.learn-now-button{
+  background-color: rgb(243, 61, 92);
+  padding: 15px 30px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+}
+
+.ceo-pic{
+  width: 480px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 250px;
+}

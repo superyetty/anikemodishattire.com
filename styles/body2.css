@@ -1,0 +1,42 @@
+.body2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+.delivery-section{
+  display: flex;
+  align-items: center;
+}
+.delivery-icon{
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.support-section{
+  display: flex;
+  align-items: center;
+}
+.support-icon{
+  width: 40px;
+  margin-right: 20px;
+}
+.whatsapp-section{
+  display: flex;
+  align-items: center;
+}
+.whatsapp-icon{
+  width: 50px;
+  margin-right: 10px;
+}
+.quality-assurance-section{
+  display: flex;
+  align-items: center;
+}
+.assurance-icon{
+  width: 100px;
+  height: 60px;
+  margin-right: 20px;
+}
